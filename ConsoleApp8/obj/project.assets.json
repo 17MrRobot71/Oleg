@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Богдан\\source\\repos\\ConsoleApp8\\ConsoleApp8\\ConsoleApp8.csproj",
+      "projectUniqueName": "C:\\Users\\Богдан\\source\\repos\\Oleg\\ssGalicia\\S\\ConsoleApp8\\ConsoleApp8.csproj",
       "projectName": "ConsoleApp8",
-      "projectPath": "C:\\Users\\Богдан\\source\\repos\\ConsoleApp8\\ConsoleApp8\\ConsoleApp8.csproj",
+      "projectPath": "C:\\Users\\Богдан\\source\\repos\\Oleg\\ssGalicia\\S\\ConsoleApp8\\ConsoleApp8.csproj",
       "packagesPath": "C:\\Users\\Богдан\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Богдан\\source\\repos\\ConsoleApp8\\ConsoleApp8\\obj\\",
+      "outputPath": "C:\\Users\\Богдан\\source\\repos\\Oleg\\ssGalicia\\S\\ConsoleApp8\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
